@@ -55,27 +55,6 @@ const Look1ns = {
 > 🖥️ За плечами — опыт в десктопе: WinForms, WPF, ImGUI  
 > 🔄 Переношу системное мышление в мир веба
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Look1ns&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Look1ns&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Look1ns&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
 *"Desktop gave me the foundation. Web gives me the reach."*
 
 </div>
