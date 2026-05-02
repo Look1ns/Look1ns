@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Profile views](https://komarev.com/ghpvc/?username=ShukuDev&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/ShukuDev)
+[![Profile views](https://komarev.com/ghpvc/?username=Look1ns&color=00d9ff&style=flat-square&label=Profile+Views)](https://github.com/Look1ns)
 
 </div>
 
@@ -13,7 +13,7 @@
 ### 🧠 About Me
 
 ```ts
-const ShukuDev = {
+const Look1ns = {
   focus:      "Full-Stack Web Development",
   background: ["Desktop Apps", "WinForms", "WPF", "ImGUI"],
   database:   "MySQL",
@@ -61,14 +61,14 @@ const ShukuDev = {
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ShukuDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShukuDev&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Look1ns&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Look1ns&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ShukuDev&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Look1ns&theme=tokyonight&hide_border=true)
 
 </div>
 
